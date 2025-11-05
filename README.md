@@ -23,6 +23,9 @@
   <img src = "https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt = "archbtw" />
   <img src = "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt = "windows" />
   <img src = "https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt = "debian" />
+
+- <h4> Database </h4>
+  <img src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql">
   
 - <h4> tools </h4>
   <img src = "https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "photoshop" />
@@ -32,7 +35,7 @@
 - <h4> linkedin </h4>
   <a href="https://www.linkedin.com/in/ignacio-rau-483bb9208/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   </br></br>
-  
+
 <div align="right">
   </div>
   </div>
