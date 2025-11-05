@@ -1,4 +1,4 @@
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=zadiu.zadiu" />
+
 <div>
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Karla&duration=3000&pause=1000&color=5000F7&center=true&width=435&lines=Programming+%3C3;Developer;Linux+enjoyer" alt="Typing SVG" /></a></p>
