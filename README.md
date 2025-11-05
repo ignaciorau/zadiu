@@ -38,7 +38,7 @@
   </br></br>
   
 <div align="right">
-<a href="https://wallpaperaccess.com/full/3494519.jpg"></a>
+<img src="https://wallpaperaccess.com/full/3494519.jpg">
   </div>
   </div>
 
