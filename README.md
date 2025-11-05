@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Karla&duration=3000&pause=1000&color=F70000&width=435&lines=Programming+%3C3;Developer;Linux+enjoyer)](https://git.io/typing-svg)
 
-<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
+<img align="right" width="400" alt="Shimarin" src="https://wallpaperaccess.com/full/3494519.jpg"/>
 
 <h2> / about me /</h2>
   
@@ -38,7 +38,6 @@
   </br></br>
   
 <div align="right">
-<img src="https://wallpaperaccess.com/full/3494519.jpg">
   </div>
   </div>
 
